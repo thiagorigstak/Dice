@@ -60,7 +60,7 @@
 <style>
   p {
     font-size: 2rem;
-    color: #4ECCA3;
+    color: #015338;
     font-family: 'Indie Flower', cursive;
   }
   h1 {
