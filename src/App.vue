@@ -15,9 +15,11 @@
       <div class="row">
         <div class="col-sm">
           <img :src="selected1"/>
+          <p> {{ dice1 }}</p>
         </div>
         <div class="col-sm">
           <img :src="selected2"/>
+          <p> {{ dice2 }}</p>
         </div>
       </div>
     </div>
